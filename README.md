@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subral Jaiswal</h1>
-<h3 align="center">I'm a software engineering student with a passion for big data and a strong skill set in Python, data analytics, web development, Linux, and Java.Ranked in the top 5% on LinkedIn's Python assessment, I hold certifications from HackerRank, Oracle University, and Cognitive Class. I'm eager to apply my skills in a dynamic and growth-oriented organisation.</h3>
+<h3 align="center">I'm a AI/ML Developer with a passion for big data and a strong skill set in Python, data analytics, web development, Linux, and Java.Ranked in the top 5% on LinkedIn's Python assessment, I hold certifications from HackerRank, Oracle University, and Cognitive Class. I'm eager to apply my skills in a dynamic and growth-oriented organisation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subral&label=Profile%20views&color=0e75b6&style=flat" alt="subral" /> </p>
 
