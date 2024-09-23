@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subral" alt="subral" /></a> </p>
 
-- 🔭 I’m currently working on [Custom Marker Detection for AR](https://github.com/subral/shooting-game.github.io.git)
+- 🔭 I’m currently working on [Custom Marker Detection for AR](https://github.com/Subral/custom-AR-camera-frontend-access.git)
 
 - 🌱 I’m currently learning **Three.js, Codeigniter 4**
 
