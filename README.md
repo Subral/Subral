@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Custom Marker Detection for AR](https://github.com/Subral/custom-AR-camera-frontend-access.git)
 
-- 🌱 I’m currently learning **AI/ML/DL**
+- 🌱 I’m currently learning **AI/ML/DL and IOT**
 
 - 💬 Ask me about **Java, python, AR/VR**
 
