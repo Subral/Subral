@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Custom Marker Detection for AR](https://github.com/Subral/custom-AR-camera-frontend-access.git)
 
-- 🌱 I’m currently learning **Three.js, Codeigniter 4**
+- 🌱 I’m currently learning **AI/ML/DL**
 
-- 💬 Ask me about **Java, python, AR/VR, Web Development**
+- 💬 Ask me about **Java, python, AR/VR**
 
 - 📫 How to reach me **subraljaiswal6@gmail.com**
 
